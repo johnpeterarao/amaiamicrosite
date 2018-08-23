@@ -227,7 +227,8 @@ input, select, textarea, button {
   transform: translate(-50%, 0);
   width: 100%;
   max-width: 150px;
-  height: 70px; }
+  height: 70px;
+  z-index: 3; }
   .navbar_logo img {
     width: 100%; }
 
